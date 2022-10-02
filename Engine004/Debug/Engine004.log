@@ -1,0 +1,232 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(Engine002.vcxproj, Engine003.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  D3DClass.cpp
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,1): warning C4005: 'DXGI_STATUS_OCCLUDED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57398): message : 'DXGI_STATUS_OCCLUDED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,1): warning C4005: 'DXGI_STATUS_CLIPPED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57407): message : 'DXGI_STATUS_CLIPPED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,1): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57416): message : 'DXGI_STATUS_NO_REDIRECTION'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,1): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57425): message : 'DXGI_STATUS_NO_DESKTOP_ACCESS'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,1): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57434): message : 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,1): warning C4005: 'DXGI_STATUS_MODE_CHANGED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57443): message : 'DXGI_STATUS_MODE_CHANGED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,1): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57452): message : 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,1): warning C4005: 'DXGI_ERROR_INVALID_CALL': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57467): message : 'DXGI_ERROR_INVALID_CALL'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,1): warning C4005: 'DXGI_ERROR_NOT_FOUND': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57476): message : 'DXGI_ERROR_NOT_FOUND'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,1): warning C4005: 'DXGI_ERROR_MORE_DATA': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57485): message : 'DXGI_ERROR_MORE_DATA'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,1): warning C4005: 'DXGI_ERROR_UNSUPPORTED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57494): message : 'DXGI_ERROR_UNSUPPORTED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,1): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57503): message : 'DXGI_ERROR_DEVICE_REMOVED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,1): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57512): message : 'DXGI_ERROR_DEVICE_HUNG'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,1): warning C4005: 'DXGI_ERROR_DEVICE_RESET': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57522): message : 'DXGI_ERROR_DEVICE_RESET'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,1): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57531): message : 'DXGI_ERROR_WAS_STILL_DRAWING'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,1): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57541): message : 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,1): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57550): message : 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,1): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57560): message : 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,1): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57569): message : 'DXGI_ERROR_NONEXCLUSIVE'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,1): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57578): message : 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,1): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57588): message : 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,1): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57597): message : 'DXGI_ERROR_REMOTE_OUTOFMEMORY'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(917,1): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57875): message : 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(918,1): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57884): message : 'D3D11_ERROR_FILE_NOT_FOUND'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(919,1): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57894): message : 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(920,1): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57903): message : 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,1): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57851): message : 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,1): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57860): message : 'D3D10_ERROR_FILE_NOT_FOUND'의 이전 정의를 참조하십시오.
+  Engine004.cpp
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,1): warning C4005: 'DXGI_STATUS_OCCLUDED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57398): message : 'DXGI_STATUS_OCCLUDED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,1): warning C4005: 'DXGI_STATUS_CLIPPED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57407): message : 'DXGI_STATUS_CLIPPED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,1): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57416): message : 'DXGI_STATUS_NO_REDIRECTION'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,1): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57425): message : 'DXGI_STATUS_NO_DESKTOP_ACCESS'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,1): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57434): message : 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,1): warning C4005: 'DXGI_STATUS_MODE_CHANGED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57443): message : 'DXGI_STATUS_MODE_CHANGED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,1): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57452): message : 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,1): warning C4005: 'DXGI_ERROR_INVALID_CALL': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57467): message : 'DXGI_ERROR_INVALID_CALL'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,1): warning C4005: 'DXGI_ERROR_NOT_FOUND': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57476): message : 'DXGI_ERROR_NOT_FOUND'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,1): warning C4005: 'DXGI_ERROR_MORE_DATA': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57485): message : 'DXGI_ERROR_MORE_DATA'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,1): warning C4005: 'DXGI_ERROR_UNSUPPORTED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57494): message : 'DXGI_ERROR_UNSUPPORTED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,1): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57503): message : 'DXGI_ERROR_DEVICE_REMOVED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,1): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57512): message : 'DXGI_ERROR_DEVICE_HUNG'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,1): warning C4005: 'DXGI_ERROR_DEVICE_RESET': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57522): message : 'DXGI_ERROR_DEVICE_RESET'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,1): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57531): message : 'DXGI_ERROR_WAS_STILL_DRAWING'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,1): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57541): message : 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,1): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57550): message : 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,1): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57560): message : 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,1): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57569): message : 'DXGI_ERROR_NONEXCLUSIVE'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,1): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57578): message : 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,1): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57588): message : 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,1): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57597): message : 'DXGI_ERROR_REMOTE_OUTOFMEMORY'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(917,1): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57875): message : 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(918,1): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57884): message : 'D3D11_ERROR_FILE_NOT_FOUND'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(919,1): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57894): message : 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(920,1): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57903): message : 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,1): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57851): message : 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,1): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57860): message : 'D3D10_ERROR_FILE_NOT_FOUND'의 이전 정의를 참조하십시오.
+  GraphicsClass.cpp
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,1): warning C4005: 'DXGI_STATUS_OCCLUDED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57398): message : 'DXGI_STATUS_OCCLUDED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,1): warning C4005: 'DXGI_STATUS_CLIPPED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57407): message : 'DXGI_STATUS_CLIPPED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,1): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57416): message : 'DXGI_STATUS_NO_REDIRECTION'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,1): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57425): message : 'DXGI_STATUS_NO_DESKTOP_ACCESS'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,1): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57434): message : 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,1): warning C4005: 'DXGI_STATUS_MODE_CHANGED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57443): message : 'DXGI_STATUS_MODE_CHANGED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,1): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57452): message : 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,1): warning C4005: 'DXGI_ERROR_INVALID_CALL': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57467): message : 'DXGI_ERROR_INVALID_CALL'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,1): warning C4005: 'DXGI_ERROR_NOT_FOUND': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57476): message : 'DXGI_ERROR_NOT_FOUND'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,1): warning C4005: 'DXGI_ERROR_MORE_DATA': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57485): message : 'DXGI_ERROR_MORE_DATA'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,1): warning C4005: 'DXGI_ERROR_UNSUPPORTED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57494): message : 'DXGI_ERROR_UNSUPPORTED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,1): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57503): message : 'DXGI_ERROR_DEVICE_REMOVED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,1): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57512): message : 'DXGI_ERROR_DEVICE_HUNG'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,1): warning C4005: 'DXGI_ERROR_DEVICE_RESET': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57522): message : 'DXGI_ERROR_DEVICE_RESET'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,1): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57531): message : 'DXGI_ERROR_WAS_STILL_DRAWING'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,1): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57541): message : 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,1): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57550): message : 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,1): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57560): message : 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,1): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57569): message : 'DXGI_ERROR_NONEXCLUSIVE'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,1): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57578): message : 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,1): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57588): message : 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,1): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57597): message : 'DXGI_ERROR_REMOTE_OUTOFMEMORY'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(917,1): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57875): message : 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(918,1): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57884): message : 'D3D11_ERROR_FILE_NOT_FOUND'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(919,1): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57894): message : 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(920,1): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57903): message : 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,1): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57851): message : 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,1): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57860): message : 'D3D10_ERROR_FILE_NOT_FOUND'의 이전 정의를 참조하십시오.
+  InputClass.cpp
+  SystemClass.cpp
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,1): warning C4005: 'DXGI_STATUS_OCCLUDED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57398): message : 'DXGI_STATUS_OCCLUDED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,1): warning C4005: 'DXGI_STATUS_CLIPPED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57407): message : 'DXGI_STATUS_CLIPPED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,1): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57416): message : 'DXGI_STATUS_NO_REDIRECTION'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,1): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57425): message : 'DXGI_STATUS_NO_DESKTOP_ACCESS'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,1): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57434): message : 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,1): warning C4005: 'DXGI_STATUS_MODE_CHANGED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57443): message : 'DXGI_STATUS_MODE_CHANGED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,1): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57452): message : 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,1): warning C4005: 'DXGI_ERROR_INVALID_CALL': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57467): message : 'DXGI_ERROR_INVALID_CALL'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,1): warning C4005: 'DXGI_ERROR_NOT_FOUND': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57476): message : 'DXGI_ERROR_NOT_FOUND'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,1): warning C4005: 'DXGI_ERROR_MORE_DATA': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57485): message : 'DXGI_ERROR_MORE_DATA'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,1): warning C4005: 'DXGI_ERROR_UNSUPPORTED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57494): message : 'DXGI_ERROR_UNSUPPORTED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,1): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57503): message : 'DXGI_ERROR_DEVICE_REMOVED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,1): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57512): message : 'DXGI_ERROR_DEVICE_HUNG'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,1): warning C4005: 'DXGI_ERROR_DEVICE_RESET': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57522): message : 'DXGI_ERROR_DEVICE_RESET'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,1): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57531): message : 'DXGI_ERROR_WAS_STILL_DRAWING'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,1): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57541): message : 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,1): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57550): message : 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,1): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57560): message : 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,1): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57569): message : 'DXGI_ERROR_NONEXCLUSIVE'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,1): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57578): message : 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,1): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57588): message : 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,1): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57597): message : 'DXGI_ERROR_REMOTE_OUTOFMEMORY'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(917,1): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57875): message : 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(918,1): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57884): message : 'D3D11_ERROR_FILE_NOT_FOUND'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(919,1): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57894): message : 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(920,1): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57903): message : 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,1): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57851): message : 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,1): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\winerror.h(57860): message : 'D3D10_ERROR_FILE_NOT_FOUND'의 이전 정의를 참조하십시오.
+  코드를 생성하고 있습니다...
+  Engine004.vcxproj -> C:\Users\USER-PC\source\repos\Engine004(Shader)\Debug\Engine004.exe
